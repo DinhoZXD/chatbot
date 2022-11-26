@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "messages": ["Olá", "oi","ola","hey","ei"],
+      "response": "Olá me chamo Greta,irei fazer te ajudar a fazer a doação, voce deseja fazer a doação ou gostaria de mais informações?"
+
+    },
+    {
+      "messages": ["bom dia"],
+      "response": "Bom dia,me chamo Greta, irei fazer te ajudar a fazer a doação, voce deseja fazer a doação ou gostaria de mais informações??"
+    },
+    {
+      "messages": ["boa tarde"],
+      "response": "Boa tarde, me chamo Greta, irei fazer te ajudar a fazer a doação, voce deseja fazer a doação ou gostaria de mais informações?"
+    },
+    {
+      "messages": ["boa noite"],
+      "response": "Boa noite, me chamo Greta, irei fazer te ajudar a fazer a doação, voce deseja fazer a doação ou gostaria de mais informações?"
+    },
+     {
+      "messages": ["informações", "info","gostaria de informações"],
+      "response": "Nossa instituição atua por todo o brasil, para fazer a doação e bem simples digite doação e selecione um dos alimentos, apos isso apenas basta clicar no link e fazer o pagamento"
+    },{
+      "messages": ["xau", "obrigado","certo"],
+      "response": "Obrigado, sempre é bom receber novas doaçoes "
+    }
+
+  ]
+
+}

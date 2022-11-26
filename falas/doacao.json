@@ -1,0 +1,58 @@
+{
+  "conversations": [
+    {
+      "messages": [
+        "arroz",
+        "quero doar arroz"
+
+      ],
+      "response": "Você pretende doar 1 kg de arroz ,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },
+    {
+      "messages": [
+        "feijao?",
+        " quero doar Feijão"
+
+      ],
+      "response": "Você pretende doar 1 kg de feijão ,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },
+    {
+      "messages": [
+        "oleo","óleo",
+        "quero doar Óleo"
+
+      ],
+      "response": "Você pretende doar 1 litro de Óleo,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },
+    {
+      "messages": [
+        "sal",
+        "quero doar sal"
+      ],
+      "response": "Você pretende doar 1kg de sal,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },
+    {
+      "messages": [
+        "açucar","açúcar",
+        "quero doar acucar?","quero doar açúcar"
+      ],
+      "response": "Você pretende doar 1kg de açúcar,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },
+    {
+      "messages": [
+        "café","cafe",
+        "quero doar cafe"
+      ],
+      "response": "Você pretende doar 1 pacote de café ,para confirmar acesse:\n Você gostaria de fazer mais alguma outra doação?"
+    },{
+      "messages": [
+        "sim","Sim",
+        "gostaria de fazer doacao","quero fazer uma doação",
+        "doação"
+      ],
+      "response": " digite um dos alimentos disponiveis para fazer a doação: Arroz Feijão Óleo Sal Açúcar Café"
+    }
+
+
+  ]
+}
